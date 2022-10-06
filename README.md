@@ -1,1 +1,1 @@
-# wordpress_intensiv
+Верстка простого макета на чистом html и css
